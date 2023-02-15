@@ -1,0 +1,23 @@
+.todoItem {
+  display: flex;
+  width: 50%;
+  padding: 8px 20px;
+  background-color: green;
+  border-radius: 10px;
+  margin: 10px auto;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+}
+.task {
+  display: flex;
+  gap: 0px;
+}
+.textdecorate {
+  text-decoration: line-through;
+}
+.footNote {
+  text-align: center;
+  font-size: 3rem;
+  font-wight: bold;
+}

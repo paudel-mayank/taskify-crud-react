@@ -1,0 +1,13 @@
+.submit {
+  padding: 4px 20px;
+  background: none;
+  border: 2px solid green;
+  color: green;
+  border-radius: 10px;
+}
+input {
+  padding: 4px 0px;
+  border: none;
+  margin-right: 20px;
+  border-bottom: 2px solid green;
+}

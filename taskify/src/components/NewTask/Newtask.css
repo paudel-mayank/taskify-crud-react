@@ -1,0 +1,15 @@
+.mainButton {
+  padding: 8px 10px;
+  background: green;
+  color: white;
+  border: 2px solid transparent;
+  outline: none;
+}
+.mainButton:hover {
+  border: 2px solid green;
+  color: green;
+  background: none;
+}
+.addnew {
+  text-align: center;
+}
